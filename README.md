@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Henrietta Caruso! 👋
+Computer Science Student at Columbus State Community College
+🔭 I’m currently working on my first GitHub projects.
+🌱 I’m currently learning web development and cloud tools.
+⚡ Fun fact: I love discovering new technologies to solve problems!
