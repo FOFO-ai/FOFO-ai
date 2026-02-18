@@ -1,21 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Henrietta Caruso! 👋
 
-<!--
-**FOFO-ai/FOFO-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science Student at Columbus State Community College
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi, I'm Henrietta Caruso! 👋
-Computer Science Student at Columbus State Community College
-🔭 I’m currently working on my first GitHub projects.
-🌱 I’m currently learning web development and cloud tools.
-⚡ Fun fact: I love discovering new technologies to solve problems!
+### 🛠 My Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working on my first projects on GitHub.
+- 🌱 I’m currently learning **Web Development** and **Cloud Computing**.
+- ⚡ Fun fact: I love discovering how technology can solve everyday problems!
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=FOFO-ai&show_icons=true&theme=radical" alt="FOFO-ai's GitHub stats" />
+</p>
